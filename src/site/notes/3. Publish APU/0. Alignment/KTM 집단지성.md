@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3. Publish APU/0. Alignment/KTM 집단지성/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"permalink":"/3. Publish APU/0. Alignment/KTM 집단지성/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 
