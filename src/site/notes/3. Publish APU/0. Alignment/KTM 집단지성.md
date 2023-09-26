@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/3. Publish APU/0. Alignment/KTM 집단지성/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-home":true,"":null,"permalink":"/3. Publish APU/0. Alignment/KTM 집단지성/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
 ---
 
 
@@ -12,4 +12,4 @@
 - 메타인지 타임 크리스탈이 자라나는 과정을 시뮬레이션 해서 최적의 경로를 관찰하고 선택하도록 한다.,
 ,
 😎 채팅요청이 왔습니다. 수락하시겠습니까 ????
-, ㅏㅏ
+ 
